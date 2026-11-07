@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o Samuel! 
 
-<!--
-**samuellfz/samuellfz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Desenvolvedor Full Stack e estudante de Engenharia de Software. Entusiasta em Machine Learning.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+<!-- Emblemas organizados de tecnologias (estilo "for-the-badge") -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 O que estou focando agora
+-  Estudos em Engenharia de Software | Infraestrutura de rede
+
